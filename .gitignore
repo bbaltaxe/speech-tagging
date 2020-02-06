@@ -1,0 +1,5 @@
+sessions
+*.ipynb
+venv
+clips
+.DS_Store 
